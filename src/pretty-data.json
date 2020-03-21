@@ -1,0 +1,368 @@
+{
+  "uinfin": {
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "classification": "C",
+    "value": "S6005048A"
+  },
+  "name": {
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "classification": "C",
+    "value": "ANDY LAU"
+  },
+  "sex": {
+    "lastupdated": "2020-02-04",
+    "code": "M",
+    "source": "1",
+    "classification": "C",
+    "desc": "MALE"
+  },
+  "race": {
+    "lastupdated": "2020-02-04",
+    "code": "CN",
+    "source": "1",
+    "classification": "C",
+    "desc": "CHINESE"
+  },
+  "nationality": {
+    "lastupdated": "2020-02-04",
+    "code": "SG",
+    "source": "1",
+    "classification": "C",
+    "desc": "SINGAPORE CITIZEN"
+  },
+  "dob": {
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "classification": "C",
+    "value": "1988-10-06"
+  },
+  "email": {
+    "lastupdated": "2020-02-04",
+    "source": "2",
+    "classification": "C",
+    "value": ""
+  },
+  "mobileno": {
+    "lastupdated": "2020-02-04",
+    "source": "2",
+    "classification": "C",
+    "areacode": {
+      "value": ""
+    },
+    "prefix": {
+      "value": ""
+    },
+    "nbr": {
+      "value": ""
+    }
+  },
+  "regadd": {
+    "country": {
+      "code": "SG",
+      "desc": "SINGAPORE"
+    },
+    "unit": {
+      "value": "10"
+    },
+    "street": {
+      "value": "ANCHORVALE DRIVE"
+    },
+    "lastupdated": "2020-02-04",
+    "block": {
+      "value": "319"
+    },
+    "source": "1",
+    "postal": {
+      "value": "542319"
+    },
+    "classification": "C",
+    "floor": {
+      "value": "38"
+    },
+    "type": "SG",
+    "building": {
+      "value": ""
+    }
+  },
+  "housingtype": {
+    "lastupdated": "2020-02-04",
+    "code": "",
+    "source": "1",
+    "classification": "C",
+    "desc": ""
+  },
+  "hdbtype": {
+    "lastupdated": "2020-02-04",
+    "code": "115",
+    "source": "1",
+    "classification": "C",
+    "desc": "5-ROOM FLAT (HDB)"
+  },
+  "marital": {
+    "lastupdated": "2020-02-04",
+    "code": "2",
+    "source": "1",
+    "classification": "C",
+    "desc": "MARRIED"
+  },
+  "edulevel": {
+    "lastupdated": "2020-02-04",
+    "code": "9",
+    "source": "2",
+    "classification": "C",
+    "desc": "MASTER'S AND DOCTORATE OR EQUIVALENT"
+  },
+  "noa-basic": {
+    "yearofassessment": {
+      "value": "2017"
+    },
+    "lastupdated": "2020-02-04",
+    "amount": {
+      "value": 200456.1
+    },
+    "source": "1",
+    "classification": "C"
+  },
+  "ownerprivate": {
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "classification": "C",
+    "value": false
+  },
+  "cpfcontributions": {
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "history": [
+      {
+        "date": {
+          "value": "2016-11-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2016-10"
+        }
+      },
+      {
+        "date": {
+          "value": "2016-12-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2016-11"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-01-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2016-12"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-02-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-01"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-03-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-02"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-04-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-03"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-05-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 3300.88
+        },
+        "month": {
+          "value": "2017-04"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-06-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-05"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-07-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1808.34
+        },
+        "month": {
+          "value": "2017-06"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-08-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-07"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-09-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-08"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-10-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-09"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-11-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-10"
+        }
+      },
+      {
+        "date": {
+          "value": "2017-12-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-11"
+        }
+      },
+      {
+        "date": {
+          "value": "2018-01-10"
+        },
+        "employer": {
+          "value": "ABC"
+        },
+        "amount": {
+          "value": 1055.12
+        },
+        "month": {
+          "value": "2017-12"
+        }
+      }
+    ],
+    "classification": "C"
+  },
+  "cpfbalances": {
+    "oa": {
+      "value": 56343.35
+    },
+    "ma": {
+      "value": 32455.22
+    },
+    "lastupdated": "2020-02-04",
+    "source": "1",
+    "classification": "C",
+    "sa": {
+      "value": 42521.4
+    },
+    "ra": {
+      "value": 89323.58
+    }
+  }
+}

@@ -4,6 +4,7 @@ import { Route, Switch } from 'react-router-dom';
 import { ConnectedRouter } from 'connected-react-router';
 import App from '../container/App';
 import { Provider } from 'react-redux';
+import Callback from '../container/Callback';
 
 export default function Root({ history, store }) {
   return (
@@ -11,7 +12,7 @@ export default function Root({ history, store }) {
       <ConnectedRouter history={history}>
         <Switch>
           <Route exact path="/" component={App} />
-          <Route path="/callback" component={null} />
+          <Route path="/callback" component={Callback} />
         </Switch>
       </ConnectedRouter>
     </Provider>
